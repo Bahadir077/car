@@ -1,0 +1,17 @@
+C:\Users\Student\Desktop\muasirproq\car\car\bin\Debug\net8.0-windows\car.exe
+C:\Users\Student\Desktop\muasirproq\car\car\bin\Debug\net8.0-windows\car.deps.json
+C:\Users\Student\Desktop\muasirproq\car\car\bin\Debug\net8.0-windows\car.runtimeconfig.json
+C:\Users\Student\Desktop\muasirproq\car\car\bin\Debug\net8.0-windows\car.dll
+C:\Users\Student\Desktop\muasirproq\car\car\bin\Debug\net8.0-windows\car.pdb
+C:\Users\Student\Desktop\muasirproq\car\car\obj\Debug\net8.0-windows\car.Form1.resources
+C:\Users\Student\Desktop\muasirproq\car\car\obj\Debug\net8.0-windows\car.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\muasirproq\car\car\obj\Debug\net8.0-windows\car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\muasirproq\car\car\obj\Debug\net8.0-windows\car.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\muasirproq\car\car\obj\Debug\net8.0-windows\car.AssemblyInfo.cs
+C:\Users\Student\Desktop\muasirproq\car\car\obj\Debug\net8.0-windows\car.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\muasirproq\car\car\obj\Debug\net8.0-windows\car.dll
+C:\Users\Student\Desktop\muasirproq\car\car\obj\Debug\net8.0-windows\refint\car.dll
+C:\Users\Student\Desktop\muasirproq\car\car\obj\Debug\net8.0-windows\car.pdb
+C:\Users\Student\Desktop\muasirproq\car\car\obj\Debug\net8.0-windows\car.genruntimeconfig.cache
+C:\Users\Student\Desktop\muasirproq\car\car\obj\Debug\net8.0-windows\ref\car.dll
+C:\Users\Student\Desktop\muasirproq\car\car\obj\Debug\net8.0-windows\car.Properties.Resources.resources
